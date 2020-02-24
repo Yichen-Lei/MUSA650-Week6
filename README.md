@@ -5,6 +5,6 @@
 This repository contains:
 
 - [ROC Analysis](ROC_Analysis_Example.ipynb)
-- [Model complexity, a regression example] (ModelComplexity.ipynb)
-- [An intuitive overview of supervised learning] ()
-- [Semantic segmentation on Satellite Data, a first application] (PrjD1_SemanticSeg.ipynb)
+- [Model complexity, a regression example](ModelComplexity.ipynb)
+- An intuitive overview of supervised learning
+- [Semantic segmentation on Satellite Data, a first application](PrjD1_SemanticSeg.ipynb)
